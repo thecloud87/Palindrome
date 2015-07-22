@@ -14,7 +14,7 @@ def palindrome(word):
 
 palindrome("racecar")
 
-# 2 assert tests true/false
+#unit tests
 
 class myTest(unittest.TestCase):
     def test_palindrome_is_true(self):
